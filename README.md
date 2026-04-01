@@ -9,7 +9,7 @@
 - Run bulk verification
 - Find professional email addresses
 
-👉 Get free API key: https://emailverify.io
+👉 Get free API key: [https://emailverify.io](https://www.emailverify.io/api/)
 
 ## Why EmailVerify.io?
 
