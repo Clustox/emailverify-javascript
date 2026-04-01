@@ -1,7 +1,20 @@
-[EmailVerify](https://www.emailverify.io/>) 
-JavaScript API v1
+# EmailVerify.io JavaScript SDK [![Get API Key](https://img.shields.io/badge/Get-API%20Key-blue)](https://emailverify.io)
 
-A comprehensive JavaScript wrapper class for the EmailVerify.io API v1. This provides easy-to-use methods for email validation, batch email validation, email finding and account balance.
+🚀 Official Node.js client for EmailVerify.io — fast and accurate email verification API.
+
+- Validate emails in real-time
+- Detect disposable & risky emails
+- Run bulk verification
+- Find professional email addresses
+
+👉 Get free API key: https://emailverify.io
+
+## Why EmailVerify.io?
+
+- ⚡ Sub-100ms API response
+- 🎯 High accuracy (SMTP-level verification)
+- 💰 10x more cost-effective vs competitors
+- 🔌 Works across Node.js, Python, PHP, Ruby, Go, .NET
 
 ## WE DO NOT RECOMMEND USING THIS SDK ON A FRONT-END ENVIRONMENT AS THE API KEY WILL BE VISIBLE
 
